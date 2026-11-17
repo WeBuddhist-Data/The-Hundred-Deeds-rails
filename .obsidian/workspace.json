@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e58c8feaab077a2",
+        "id": "80269727ba512d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "c8209b24d863fcd9",
+            "id": "928a6fbd1ba8f224",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,10 +198,11 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "928a6fbd1ba8f224",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ་ཡིག་རྐྱང་ཆ་ཚང་།.md",
     "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
+    "1-SOURCES/Text/las_brgya_tham_pa_segmented.md",
+    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ་ཡིག་རྐྱང་ཆ་ཚང་།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -234,7 +235,6 @@
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
+    "4-SYSTEM/Skills/format-root-text/SKILL.md"
   ]
 }
