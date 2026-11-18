@@ -200,14 +200,14 @@
   },
   "active": "928a6fbd1ba8f224",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
-    "1-SOURCES/Text/las_brgya_tham_pa_segmented.md",
-    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ་ཡིག་རྐྱང་ཆ་ཚང་།.md",
-    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
+    "1-SOURCES/Text/las_brgya_tham_pa_segmented.md",
+    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ་ཡིག་རྐྱང་ཆ་ཚང་།.md",
+    "README.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -234,7 +234,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }
