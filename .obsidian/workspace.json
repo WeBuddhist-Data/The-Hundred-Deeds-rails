@@ -11,10 +11,14 @@
             "id": "f9d78bd0eebca3df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ལས་བརྒྱ་ཐམ་པ།"
             }
           }
         ]
