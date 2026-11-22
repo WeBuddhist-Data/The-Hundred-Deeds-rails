@@ -11,14 +11,10 @@
             "id": "f9d78bd0eebca3df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ལས་བརྒྱ་ཐམ་པ།"
+              "title": "New tab"
             }
           }
         ]
@@ -201,6 +197,7 @@
   "active": "f9d78bd0eebca3df",
   "lastOpenFiles": [
     "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།.md",
+    "1-SOURCES/Text/ལས་བརྒྱ་ཐམ་པ།a.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
